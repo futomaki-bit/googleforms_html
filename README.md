@@ -15,5 +15,9 @@
 5. Paste the HTML into your site or blog.
 
 
+### The code should look like this: ###
 
+```
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJ6fZz5XxVabcLmq7GOiyAmsSJUADiGYizP1-AVrf-choCDg/viewform?embedded=true" width="640" height="840" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+```
 
