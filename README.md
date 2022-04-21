@@ -2,7 +2,7 @@
 
 *Inserting Google Forms in HTML.*
  
-[Link](https://futomakiyoin.github.io/googleforms_html/)
+[Link](https://futomaki-bit.github.io/googleforms_html/)
  
 **Original Google Form [Here](https://forms.gle/Kb93dikmrsc9rtJn8)**
 
